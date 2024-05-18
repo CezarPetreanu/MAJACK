@@ -20,9 +20,9 @@ if(instance_exists(target)){
 			obj_majack._score += damage;
 	}
 	else {
-		target.damage_taken += (target.damage_taken < 10)?10:1;
+		target.damage_taken += (target.damage_taken < 10)?11:1;
 		if(target.damage_taken <= 21)
-			obj_majack._score += (target.damage_taken < 10)?10:1;
+			obj_majack._score += (target.damage_taken < 10)?11:1;
 	}
 	
 	if(target.damage_taken == 21)
