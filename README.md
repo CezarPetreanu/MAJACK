@@ -18,7 +18,7 @@ Majack trebuie să parcurgă întreg nivelul cu un scor cât mai mare, acumulat 
 
 ## Muzica
 
-Song: Party's Cancelled by RoccoW
+**Song: Party's Cancelled by RoccoW**
 
 Promoted by: Music Now - No Copyright Music
 
@@ -27,7 +27,8 @@ Video Link: https://www.youtube.com/watch?v=9H4lxOs6YGY&t=0s
 License: https://creativecommons.org/licenses/by/3.0/
 
 
-Song: Funk Modulator by RoccoW
+
+**Song: Funk Modulator by RoccoW**
 
 Promoted by: Music Now - No Copyright Music
 
@@ -36,7 +37,8 @@ Video Link: https://www.youtube.com/watch?v=ZTbBqWaLv-E&t=0s
 License: https://creativecommons.org/licenses/by/3.0/
 
 
-Song: Underclocked by Eric Skiff  
+
+**Song: Underclocked by Eric Skiff**
 
 Promoted by: Music Now - No Copyright Music
 
