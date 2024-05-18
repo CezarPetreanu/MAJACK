@@ -1,0 +1,10 @@
+sparkle(x, y, 2);
+image_index = irandom(image_number-1);
+spd = 3;
+dir = irandom(360);
+steer = 0.01;
+target = noone;
+target_dir = dir;
+alarm[0] = game_get_speed(gamespeed_fps)*0.2;
+alarm[1] = game_get_speed(gamespeed_fps)*0.9;
+alarm[2] = game_get_speed(gamespeed_fps);

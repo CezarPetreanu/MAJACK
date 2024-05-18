@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"topdown_movement",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"topdown_movement",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

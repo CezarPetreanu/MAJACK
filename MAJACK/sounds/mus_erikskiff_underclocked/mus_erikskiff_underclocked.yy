@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_erikskiff_underclocked",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":189.31496,
+  "name":"mus_erikskiff_underclocked",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_erikskiff_underclocked.ogg",
+  "type":0,
+  "volume":0.5,
+}
